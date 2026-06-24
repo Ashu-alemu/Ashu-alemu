@@ -7,7 +7,7 @@
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ashenafi-lakew-062a56305/)
 
 ## My Projects
-- 📚 [Library Management System](https://ashu-alemu.github.io/Library-Management-System-/) - A web-based library management application
+- 📚 [Library Management System](https://ashu-alemu.github.io/Admas-Digital-Library/) - A web-based library management application
 
 ## Tech Stack
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
