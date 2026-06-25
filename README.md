@@ -8,6 +8,7 @@
 
 ## My Projects
 - 📚 [Library Management System](https://ashu-alemu.github.io/Admas-Digital-Library/) - A web-based library management application
+- 🎲 [Graphics Animations](https://ashu-alemu.github.io/Graphics-Animations/) - Computer Graphics Animations
 
 ## Tech Stack
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
